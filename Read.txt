@@ -1,0 +1,5 @@
+All the Data Analysis will be done in this folder only to keep it sorted
+
+1) Name the notebooks accordingly (Step by Step)
+2) Members must commit the notebooks of files they using after there work (Compulsory)
+3) Dont change the names 
